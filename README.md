@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+常玩嵌入式，各种东西都喜欢，什么都会做一点点喵。
+
+永远爱大家喵！
