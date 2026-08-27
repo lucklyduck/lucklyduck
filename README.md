@@ -30,6 +30,12 @@ Here are some ideas to get you started:
   />
 </picture>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lucklyduck&include_all_commits=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=lucklyduck&include_all_commits=true&theme=vue)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lucklyduck&layout=compact&langs_count=4&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=lucklyduck&layout=compact&langs_count=4&theme=catppuccin_latte)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lucklyduck)](https://git.io/streak-stats)
+
 常玩嵌入式，各种东西都喜欢，什么都会做一点点喵。
 
 永远爱大家喵！
